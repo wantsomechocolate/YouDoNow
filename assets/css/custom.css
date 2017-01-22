@@ -1,0 +1,33 @@
+.carousel-control {
+	display:none;
+}
+	
+.carousel.vertical .carousel-inner > .item {
+	padding-right:0px;
+}
+
+
+#header h1{
+	margin:0 0 0 0;
+}
+
+
+#you-do-now{
+	font-size:6em !important;
+	margin:0.55em 0 0 0 !important;
+}
+
+#jcap{
+	padding-right:3em;
+	padding-left:3em;
+}
+
+#jcap>div{
+	display:inline-block !important;
+	width:50%;
+}
+
+
+.float-right{
+	float:right;
+}
